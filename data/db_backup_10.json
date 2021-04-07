@@ -1,0 +1,27 @@
+
+
+{
+  "name": "Mock Study Deck 42",
+  "description": "MDS42",
+  "id": 42,
+  "cards": [
+    {
+      "id": 43,
+      "front": "What did one plate say to the other plate?",
+      "back": "Dinner is on me!",
+      "deckId": 42
+    },
+    {
+      "id": 44,
+      "front": "Why did the student eat his homework?",
+      "back": "Because the teacher told him it was a piece of cake!",
+      "deckId": 42
+    },
+    {
+      "id": 45,
+      "front": "What did the Dalmatian say after lunch?",
+      "back": "That hit the spot!",
+      "deckId": 42
+    }
+  ]
+}
